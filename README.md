@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 AdWords on Rails
 ================
 
@@ -120,3 +121,6 @@ Authors:
 
     Danial Klimkin (api.dklimkin@gmail.com)
     Michael Cloonan (api.mcloonan@gmail.com)
+=======
+# adwords_on_rails
+>>>>>>> origin/master
